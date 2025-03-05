@@ -85,3 +85,4 @@ if uploadedfile:
 
 # Thank you message
 st.success("Thank you for using **Data Convert and Cleanify**! 🚀🎉")
+st.write("Mohib Ali Khan | 2025 All rights reserved" )
